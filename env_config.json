@@ -1,0 +1,9 @@
+{
+    "PROD_ENV": {"RFSCRIPT": "P:/riffTool"}, 
+    "DEV_ENV": {"RFSCRIPT": "D:/TA/Dropbox/script_server"}, 
+    "PACKAGE": "python/2.7/site-packages", 
+    "QTPATH": "lib/Qt.py", 
+    "TOOLPATH": "app",
+    "USER": "RFUSER",
+    "SCRIPT_VAR": "RFSCRIPT"
+}
